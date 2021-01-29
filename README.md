@@ -15,6 +15,7 @@ The model used is a basic merge model. This model uses VGG16 pre-trained model f
 
 
 User-Interface 
+
 Three python files namely UI_final.py, model_final.py and similarity.py We are using streamlit for creating User interface. The UI_final.py file consists of the code to create user interface. In the modelling part, we get a model for image captioning, based on this model we can predict captioning for images. While playing the video frames are considered and non similar frames are captioned. That will be the output.
 
 Project Presentation - https://www.slideshare.net/GokulSuseendran/automated-cricket-commentary
