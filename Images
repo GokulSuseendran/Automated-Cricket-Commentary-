@@ -1,0 +1,3 @@
+# Images can be found in this link, Images should be converted for better performance of the model. Also note that since we are using VGG16 pre-trained 
+model for image extraction, the images should be of three channel.
+Link - https://drive.google.com/drive/folders/1OzKActJPSi4HdEiZMZvzl9Zh879kvB_J?usp=sharing
